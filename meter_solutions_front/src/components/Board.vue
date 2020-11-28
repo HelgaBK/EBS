@@ -7,6 +7,7 @@
 </template>
 
 <script>
+import LatestData from "@/components/BoardComponents/LatestData";
 
 
 export default {
