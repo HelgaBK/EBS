@@ -1,4 +1,4 @@
-add<template>
+<template>
   <el-row style="padding: 20px; box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1); margin: 20px">
     <b style="font-size: 32px">Latest data</b>
     <el-col :span="24" style="display: flex; justify-content: center">

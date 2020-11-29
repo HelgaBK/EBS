@@ -9,7 +9,7 @@
 <script>
 import LatestData from "@/components/BoardComponents/LatestData";
 import DeviceInfo from "@/components/BoardComponents/DeviceInfo";
-
+import DataClip from "@/components/BoardComponents/DataClip";
 
 export default {
   name: "Board",
