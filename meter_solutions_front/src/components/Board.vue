@@ -8,6 +8,7 @@
 
 <script>
 import LatestData from "@/components/BoardComponents/LatestData";
+import DeviceInfo from "@/components/BoardComponents/DeviceInfo";
 
 
 export default {
