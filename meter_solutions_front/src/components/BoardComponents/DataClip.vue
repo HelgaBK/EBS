@@ -29,6 +29,7 @@
 </template>
 
 <script>
+import AreaChart from "@/components/BoardComponents/AreaChart";
 
 export default {
 
