@@ -11,6 +11,7 @@
 
 <script>
 
+import AddGroupForm from "@/components/SideMenuComponents/AddGroupForm";
 
 export default {
   name: "SideMenu",
