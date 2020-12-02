@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import Device from "@/components/SideMenuComponents/Device";
 
 export default {
   name: "GroupOfDevices",
