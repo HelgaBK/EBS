@@ -10,7 +10,7 @@
 </template>
 
 <script>
-
+import GroupOfDevices from "@/components/SideMenuComponents/GroupOfDevices";
 import AddGroupForm from "@/components/SideMenuComponents/AddGroupForm";
 
 export default {
